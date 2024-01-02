@@ -1,1 +1,1 @@
-# Data Analytic-Projects
+# Data Analytic Projects
